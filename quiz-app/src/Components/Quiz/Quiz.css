@@ -50,3 +50,13 @@
   margin: auto;
   font-size: 1.125rem;
 }
+
+.container .correct {
+  background: #dffff2;
+  background-color: #00d397;
+}
+
+.container .wrong {
+  background: #fffbeb;
+  border-color: #ff4a4a;
+}
